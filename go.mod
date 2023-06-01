@@ -3,7 +3,7 @@ module lubien/tired-proxy
 go 1.17
 
 require (
-	github.com/sirupsen/logrus v1.9.0
+	github.com/sirupsen/logrus v1.9.2
 	github.com/x-cray/logrus-prefixed-formatter v0.5.2
 )
 
